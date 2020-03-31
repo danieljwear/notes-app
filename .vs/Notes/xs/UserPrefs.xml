@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7A1A0401-75DE-4C55-BA08-C2C01906CE13}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Notes/App.xaml" Line="12" Column="47" />
+      <File FileName="Notes/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Notes/NoteEntryPage.xaml" Line="18" Column="54" />
+      <File FileName="Notes/NotesPage.xaml" Line="1" Column="1" />
+      <File FileName="Notes/NotesPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Notes.Android/Assets/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="Notes.Android/Resources/values/colors.xml" Line="1" Column="1" />
+      <File FileName="Notes.Android/Resources/values/styles.xml" Line="21" Column="37" />
+      <File FileName="Notes.Android/Resources/layout/Toolbar.xml" Line="1" Column="1" />
+      <File FileName="Notes.Android/Resources/AboutResources.txt" Line="12" Column="9" />
+      <File FileName="Notes.iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" Line="7" Column="20" />
+      <File FileName="Notes.Android/Resources/Resource.designer.cs" Line="1735" Column="180" />
+      <File FileName="Notes.Android/Resources/mipmap-anydpi-v26/icon_round.xml" Line="2" Column="11" />
+      <File FileName="Notes.Android/Resources/mipmap-anydpi-v26/icon.xml" Line="2" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes" expanded="True">
+            <Node name="Notes" expanded="True">
+              <Node name="GettingStarted" selected="True" />
+              <Node name="NotesPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Notes.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

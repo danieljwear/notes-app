@@ -1,0 +1,14 @@
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/bin/Debug/netstandard2.0/Notes.deps.json
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/bin/Debug/netstandard2.0/Notes.dll
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/bin/Debug/netstandard2.0/ref/Notes.dll
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/bin/Debug/netstandard2.0/Notes.pdb
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/Notes.csprojAssemblyReference.cache
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/NoteEntryPage.xaml.g.cs
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/NotesPage.xaml.g.cs
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfoInputs.cache
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/Notes.AssemblyInfo.cs
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/Notes.dll
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/ref/Notes.dll
+/Users/danielwear/Documents/School/cit365-fixed/Xamarin_Forms/Notes/obj/Debug/netstandard2.0/Notes.pdb
